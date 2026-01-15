@@ -1,0 +1,63 @@
+{
+  "name": "@coldagency/spintax",
+  "version": "1.0.0",
+  "description": "A powerful spintax parser with nested syntax support for cold email and content generation",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "require": "./dist/index.js",
+      "import": "./dist/index.mjs",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsup src/index.ts --format cjs,esm --dts",
+    "dev": "tsup src/index.ts --format cjs,esm --dts --watch",
+    "test": "vitest",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "spintax",
+    "spin",
+    "text-spinner",
+    "cold-email",
+    "email-marketing",
+    "content-generation",
+    "text-variation",
+    "copywriting",
+    "outreach",
+    "personalization"
+  ],
+  "author": {
+    "name": "Cold Agency",
+    "url": "https://www.coldagency.io/"
+  },
+  "license": "MIT",
+  "homepage": "https://www.coldagency.io/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coldagency/spintax-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/coldagency/spintax-js/issues"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://www.coldagency.io/"
+  },
+  "devDependencies": {
+    "tsup": "^8.0.0",
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
