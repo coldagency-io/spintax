@@ -1,6 +1,6 @@
 {
   "name": "@coldagency/spintax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A powerful spintax parser with nested syntax support for cold email and content generation",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
