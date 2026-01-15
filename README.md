@@ -192,6 +192,8 @@ We contribute 1% of our revenue to carbon removal.
 
 [![Figma](https://img.shields.io/badge/Figma-Free%20Templates-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/community/file/1593641104107940515/linked-carousel-templates) Get some free LinkedIn Carousel templates
 
+[![Cal.com](https://img.shields.io/badge/Cal.com-Book%20a%20Call-292929?logo=calendly&logoColor=white)](https://cal.com/jelmer-migchelbrink-hivb61) Schedule a free strategy call
+
 ## License
 
 MIT License - see [LICENSE](./LICENSE) for details.
