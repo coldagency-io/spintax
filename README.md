@@ -186,6 +186,10 @@ Built with love by [Cold Agency](https://www.coldagency.io/) - we help B2B compa
 
 **Need help with your outbound?** [Book a free strategy call](https://www.coldagency.io/)
 
+[![Stripe Climate](https://img.shields.io/badge/Stripe%20Climate-Contributor-green?logo=stripe)](https://climate.stripe.com/gVZWt9)
+
+We contribute 1% of our revenue to carbon removal.
+
 ## License
 
 MIT License - see [LICENSE](./LICENSE) for details.
